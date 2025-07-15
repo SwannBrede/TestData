@@ -1,0 +1,248 @@
+{
+  "leaderboard": [
+    {
+      "name": "SkyLine Airlines",
+      "revenue": "$485,000",
+      "orders": 12,
+      "aov": "$40,417",
+      "conversionRate": "75.0%",
+      "lastPurchase": "2025-01-10",
+      "lastSONumber": "SO-2025-0134",
+      "region": "North America"
+    },
+    {
+      "name": "AeroTech Solutions",
+      "revenue": "$342,500",
+      "orders": 8,
+      "aov": "$42,813",
+      "conversionRate": "66.7%",
+      "lastPurchase": "2025-01-08",
+      "lastSONumber": "SO-2025-0129",
+      "region": "North America"
+    },
+    {
+      "name": "Global Air Services",
+      "revenue": "$298,750",
+      "orders": 15,
+      "aov": "$19,917",
+      "conversionRate": "83.3%",
+      "lastPurchase": "2025-01-12",
+      "lastSONumber": "SO-2025-0142",
+      "region": "Europe"
+    },
+    {
+      "name": "Pacific Airways",
+      "revenue": "$234,200",
+      "orders": 6,
+      "aov": "$39,033",
+      "conversionRate": "60.0%",
+      "lastPurchase": "2025-01-05",
+      "lastSONumber": "SO-2025-0118",
+      "region": "Asia Pacific"
+    },
+    {
+      "name": "Continental Flight Co.",
+      "revenue": "$198,900",
+      "orders": 9,
+      "aov": "$22,100",
+      "conversionRate": "69.2%",
+      "lastPurchase": "2025-01-11",
+      "lastSONumber": "SO-2025-0137",
+      "region": "North America"
+    },
+    {
+      "name": "European Airways",
+      "revenue": "$187,300",
+      "orders": 7,
+      "aov": "$26,757",
+      "conversionRate": "58.3%",
+      "lastPurchase": "2025-01-09",
+      "lastSONumber": "SO-2025-0126",
+      "region": "Europe"
+    },
+    {
+      "name": "Cargo Express Ltd",
+      "revenue": "$156,800",
+      "orders": 11,
+      "aov": "$14,255",
+      "conversionRate": "78.6%",
+      "lastPurchase": "2025-01-13",
+      "lastSONumber": "SO-2025-0145",
+      "region": "Europe"
+    },
+    {
+      "name": "Asian Sky Network",
+      "revenue": "$145,600",
+      "orders": 5,
+      "aov": "$29,120",
+      "conversionRate": "55.6%",
+      "lastPurchase": "2025-01-07",
+      "lastSONumber": "SO-2025-0123",
+      "region": "Asia Pacific"
+    },
+    {
+      "name": "Trans-Atlantic Air",
+      "revenue": "$134,900",
+      "orders": 8,
+      "aov": "$16,863",
+      "conversionRate": "72.7%",
+      "lastPurchase": "2025-01-06",
+      "lastSONumber": "SO-2025-0121",
+      "region": "North America"
+    },
+    {
+      "name": "Regional Connect",
+      "revenue": "$123,450",
+      "orders": 14,
+      "aov": "$8,818",
+      "conversionRate": "82.4%",
+      "lastPurchase": "2025-01-12",
+      "lastSONumber": "SO-2025-0141",
+      "region": "North America"
+    },
+    {
+      "name": "Air Logistics Pro",
+      "revenue": "$112,300",
+      "orders": 6,
+      "aov": "$18,717",
+      "conversionRate": "50.0%",
+      "lastPurchase": "2025-01-04",
+      "lastSONumber": "SO-2025-0115",
+      "region": "Europe"
+    },
+    {
+      "name": "Oceanic Aviation",
+      "revenue": "$98,700",
+      "orders": 4,
+      "aov": "$24,675",
+      "conversionRate": "44.4%",
+      "lastPurchase": "2025-01-03",
+      "lastSONumber": "SO-2025-0112",
+      "region": "Asia Pacific"
+    }
+  ],
+  "retentionTrend": [
+    { "month": "Jul", "newCustomers": 12, "returningCustomers": 45 },
+    { "month": "Aug", "newCustomers": 18, "returningCustomers": 52 },
+    { "month": "Sep", "newCustomers": 15, "returningCustomers": 48 },
+    { "month": "Oct", "newCustomers": 22, "returningCustomers": 56 },
+    { "month": "Nov", "newCustomers": 19, "returningCustomers": 61 },
+    { "month": "Dec", "newCustomers": 25, "returningCustomers": 68 },
+    { "month": "Jan", "newCustomers": 21, "returningCustomers": 72 }
+  ],
+  "growingCustomers": [
+    {
+      "name": "SkyLine Airlines",
+      "currentRevenue": "$485,000",
+      "previousRevenue": "$320,000",
+      "growth": "+51.6%",
+      "growthPercent": 51.6
+    },
+    {
+      "name": "Global Air Services",
+      "currentRevenue": "$298,750",
+      "previousRevenue": "$210,000",
+      "growth": "+42.3%",
+      "growthPercent": 42.3
+    },
+    {
+      "name": "Cargo Express Ltd",
+      "currentRevenue": "$156,800",
+      "previousRevenue": "$115,000",
+      "growth": "+36.3%",
+      "growthPercent": 36.3
+    },
+    {
+      "name": "Regional Connect",
+      "currentRevenue": "$123,450",
+      "previousRevenue": "$95,000",
+      "growth": "+29.9%",
+      "growthPercent": 29.9
+    },
+    {
+      "name": "Trans-Atlantic Air",
+      "currentRevenue": "$134,900",
+      "previousRevenue": "$108,000",
+      "growth": "+24.9%",
+      "growthPercent": 24.9
+    }
+  ],
+  "decliningCustomers": [
+    {
+      "name": "Oceanic Aviation",
+      "currentRevenue": "$98,700",
+      "previousRevenue": "$145,000",
+      "growth": "-31.9%",
+      "growthPercent": -31.9
+    },
+    {
+      "name": "Asian Sky Network",
+      "currentRevenue": "$145,600",
+      "previousRevenue": "$185,000",
+      "growth": "-21.3%",
+      "growthPercent": -21.3
+    },
+    {
+      "name": "Air Logistics Pro",
+      "currentRevenue": "$112,300",
+      "previousRevenue": "$138,000",
+      "growth": "-18.6%",
+      "growthPercent": -18.6
+    },
+    {
+      "name": "Pacific Airways",
+      "currentRevenue": "$234,200",
+      "previousRevenue": "$275,000",
+      "growth": "-14.8%",
+      "growthPercent": -14.8
+    },
+    {
+      "name": "European Airways",
+      "currentRevenue": "$187,300",
+      "previousRevenue": "$210,000",
+      "growth": "-10.8%",
+      "growthPercent": -10.8
+    }
+  ],
+  "regionData": [
+    {
+      "name": "North America",
+      "value": 1680000,
+      "formattedValue": "$1.68M",
+      "color": "#3b82f6"
+    },
+    {
+      "name": "Europe",
+      "value": 480000,
+      "formattedValue": "$480K",
+      "color": "#10b981"
+    },
+    {
+      "name": "Asia Pacific",
+      "value": 240000,
+      "formattedValue": "$240K",
+      "color": "#f59e0b"
+    }
+  ],
+  "segmentData": [
+    {
+      "name": "Enterprise",
+      "value": 1440000,
+      "formattedValue": "$1.44M",
+      "color": "#8b5cf6"
+    },
+    {
+      "name": "Mid-Market",
+      "value": 720000,
+      "formattedValue": "$720K",
+      "color": "#ef4444"
+    },
+    {
+      "name": "Small Business",
+      "value": 240000,
+      "formattedValue": "$240K",
+      "color": "#06b6d4"
+    }
+  ],
+  "lastUpdated": "Today, 2:47 PM"
+}

@@ -1,0 +1,1038 @@
+{
+  "overview": {
+    "kpis": {
+      "totalROIssued": 1247,
+      "openROs": 89,
+      "closedROs": 1158,
+      "avgTAT": 23,
+      "totalValue": "$18.4M",
+      "completionRate": 92.8,
+      "monthlyVolume": 156
+    },
+    "roByYearData": [
+      {
+        "year": "2021",
+        "roCount": 245
+      },
+      {
+        "year": "2022",
+        "roCount": 318
+      },
+      {
+        "year": "2023",
+        "roCount": 392
+      },
+      {
+        "year": "2024",
+        "roCount": 292
+      }
+    ],
+    "roStatusData": [
+      {
+        "status": "Open",
+        "count": 89,
+        "color": "#3B82F6"
+      },
+      {
+        "status": "In Progress",
+        "count": 156,
+        "color": "#F59E0B"
+      },
+      {
+        "status": "Completed",
+        "count": 892,
+        "color": "#10B981"
+      },
+      {
+        "status": "On Hold",
+        "count": 78,
+        "color": "#EF4444"
+      },
+      {
+        "status": "Cancelled",
+        "count": 32,
+        "color": "#6B7280"
+      }
+    ],
+    "topRepairShops": [
+      {
+        "name": "AeroRepair Solutions",
+        "roCount": 89,
+        "avgTAT": 18,
+        "completionRate": 96
+      },
+      {
+        "name": "Pratt & Whitney Service",
+        "roCount": 76,
+        "avgTAT": 21,
+        "completionRate": 94
+      },
+      {
+        "name": "Lufthansa Technik",
+        "roCount": 62,
+        "avgTAT": 25,
+        "completionRate": 91
+      },
+      {
+        "name": "Boeing Global Services",
+        "roCount": 58,
+        "avgTAT": 19,
+        "completionRate": 98
+      },
+      {
+        "name": "StandardAero",
+        "roCount": 47,
+        "avgTAT": 23,
+        "completionRate": 89
+      }
+    ],
+    "agingBuckets": [
+      {
+        "range": "0-14 days",
+        "count": 34,
+        "percentage": 38
+      },
+      {
+        "range": "15-30 days",
+        "count": 28,
+        "percentage": 31
+      },
+      {
+        "range": "31-60 days",
+        "count": 19,
+        "percentage": 21
+      },
+      {
+        "range": "60+ days",
+        "count": 8,
+        "percentage": 9
+      }
+    ],
+    "recentActivity": [
+      {
+        "date": "Jan 14, 2025",
+        "roNumber": "RO-2025-023",
+        "shop": "AeroRepair Solutions",
+        "status": "Completed",
+        "partNumber": "ENG-7845"
+      },
+      {
+        "date": "Jan 14, 2025",
+        "roNumber": "RO-2025-022",
+        "shop": "Pratt & Whitney Service",
+        "status": "In Progress",
+        "partNumber": "HYD-2156"
+      },
+      {
+        "date": "Jan 13, 2025",
+        "roNumber": "RO-2025-021",
+        "shop": "Lufthansa Technik",
+        "status": "Open",
+        "partNumber": "APU-4578"
+      },
+      {
+        "date": "Jan 13, 2025",
+        "roNumber": "RO-2025-020",
+        "shop": "Boeing Global Services",
+        "status": "Completed",
+        "partNumber": "LDG-8901"
+      },
+      {
+        "date": "Jan 12, 2025",
+        "roNumber": "RO-2025-019",
+        "shop": "StandardAero",
+        "status": "On Hold",
+        "partNumber": "AVI-3456"
+      }
+    ],
+    "monthlyTrends": [
+      {
+        "month": "Jul",
+        "opened": 112,
+        "completed": 108,
+        "value": 2840
+      },
+      {
+        "month": "Aug",
+        "opened": 125,
+        "completed": 119,
+        "value": 3160
+      },
+      {
+        "month": "Sep",
+        "opened": 134,
+        "completed": 128,
+        "value": 3420
+      },
+      {
+        "month": "Oct",
+        "opened": 128,
+        "completed": 135,
+        "value": 3280
+      },
+      {
+        "month": "Nov",
+        "opened": 142,
+        "completed": 139,
+        "value": 3680
+      },
+      {
+        "month": "Dec",
+        "opened": 156,
+        "completed": 147,
+        "value": 3890
+      },
+      {
+        "month": "Jan",
+        "opened": 89,
+        "completed": 76,
+        "value": 2150
+      }
+    ]
+  },
+  "roDetails": {
+    "repairOrders": [
+      {
+        "roDate": "2024-12-15",
+        "status": "Open",
+        "aging": 29,
+        "roNumber": "RO-2024-001",
+        "roShop": "AeroRepair Solutions",
+        "item": "Unit",
+        "pnOut": "ENG-7845",
+        "pnIn": "ENG-7845-CORE",
+        "modified": "2025-01-10",
+        "description": "Engine Control Unit Repair",
+        "serialNumber": "SN001234",
+        "qtyReser": 1,
+        "qtyRepaired": 0,
+        "repairCost": 15000,
+        "freight": 250,
+        "newSL": "SL-001",
+        "retCond": "Serviceable",
+        "lot": "LOT-1234",
+        "soNumber": "SO-2024-045",
+        "location": "B-12-A",
+        "whs": "WH-01",
+        "consignCd": "CS-001",
+        "mainComponent": "Engine",
+        "slAwb": "AWB-123456",
+        "nextDelDate": "2025-01-20",
+        "vendorAckDate": "2024-12-16",
+        "lastDelDate": "2025-01-15",
+        "dayShip": 25,
+        "recWhs": "WH-02",
+        "recBackQuant": 1,
+        "shipDateFrom": "2024-12-20",
+        "shNumber": "SH-001",
+        "scrapPercent": 2
+      },
+      {
+        "roDate": "2024-12-10",
+        "status": "In Progress",
+        "aging": 34,
+        "roNumber": "RO-2024-002",
+        "roShop": "Pratt & Whitney Service",
+        "item": "Component",
+        "pnOut": "APU-1234",
+        "pnIn": "APU-1234-CORE",
+        "modified": "2025-01-08",
+        "description": "APU Generator Repair",
+        "serialNumber": "SN002345",
+        "qtyReser": 1,
+        "qtyRepaired": 1,
+        "repairCost": 25000,
+        "freight": 350,
+        "newSL": "SL-002",
+        "retCond": "New",
+        "lot": "LOT-2345",
+        "soNumber": "SO-2024-046",
+        "location": "A-05-B",
+        "whs": "WH-02",
+        "consignCd": "CS-002",
+        "mainComponent": "APU",
+        "slAwb": "AWB-234567",
+        "nextDelDate": "2025-01-18",
+        "vendorAckDate": "2024-12-11",
+        "lastDelDate": "2025-01-12",
+        "dayShip": 27,
+        "recWhs": "WH-01",
+        "recBackQuant": 1,
+        "shipDateFrom": "2024-12-15",
+        "shNumber": "SH-002",
+        "scrapPercent": 0
+      },
+      {
+        "roDate": "2024-11-25",
+        "status": "Completed",
+        "aging": 49,
+        "roNumber": "RO-2024-003",
+        "roShop": "Honeywell Aerospace",
+        "item": "Assembly",
+        "pnOut": "AVI-2134",
+        "pnIn": "AVI-2134-CORE",
+        "modified": "2025-01-05",
+        "description": "Flight Management System Repair",
+        "serialNumber": "SN003456",
+        "qtyReser": 2,
+        "qtyRepaired": 2,
+        "repairCost": 18500,
+        "freight": 200,
+        "newSL": "SL-003",
+        "retCond": "Serviceable",
+        "lot": "LOT-3456",
+        "soNumber": "SO-2024-047",
+        "location": "C-08-A",
+        "whs": "WH-03",
+        "consignCd": "CS-003",
+        "mainComponent": "Avionics",
+        "slAwb": "AWB-345678",
+        "nextDelDate": "2025-01-15",
+        "vendorAckDate": "2024-11-26",
+        "lastDelDate": "2025-01-08",
+        "dayShip": 33,
+        "recWhs": "WH-02",
+        "recBackQuant": 2,
+        "shipDateFrom": "2024-12-01",
+        "shNumber": "SH-003",
+        "scrapPercent": 5
+      },
+      {
+        "roDate": "2024-12-05",
+        "status": "Open",
+        "aging": 39,
+        "roNumber": "RO-2024-004",
+        "roShop": "Safran Landing Systems",
+        "item": "Unit",
+        "pnOut": "HYD-3456",
+        "pnIn": "HYD-3456-CORE",
+        "modified": "2025-01-12",
+        "description": "Hydraulic Actuator Repair",
+        "serialNumber": "SN004567",
+        "qtyReser": 1,
+        "qtyRepaired": 0,
+        "repairCost": 12000,
+        "freight": 180,
+        "newSL": "SL-004",
+        "retCond": "Repairable",
+        "lot": "LOT-4567",
+        "soNumber": "SO-2024-048",
+        "location": "D-15-C",
+        "whs": "WH-01",
+        "consignCd": "CS-004",
+        "mainComponent": "Landing Gear",
+        "slAwb": "AWB-456789",
+        "nextDelDate": "2025-01-25",
+        "vendorAckDate": "2024-12-06",
+        "lastDelDate": "2025-01-20",
+        "dayShip": 30,
+        "recWhs": "WH-03",
+        "recBackQuant": 1,
+        "shipDateFrom": "2024-12-10",
+        "shNumber": "SH-004",
+        "scrapPercent": 8
+      },
+      {
+        "roDate": "2024-11-30",
+        "status": "On Hold",
+        "aging": 44,
+        "roNumber": "RO-2024-005",
+        "roShop": "Collins Aerospace Service",
+        "item": "Component",
+        "pnOut": "COM-8901",
+        "pnIn": "COM-8901-CORE",
+        "modified": "2025-01-07",
+        "description": "Communication Radio Repair",
+        "serialNumber": "SN005678",
+        "qtyReser": 1,
+        "qtyRepaired": 0,
+        "repairCost": 8500,
+        "freight": 120,
+        "newSL": "SL-005",
+        "retCond": "Serviceable",
+        "lot": "LOT-5678",
+        "soNumber": "SO-2024-049",
+        "location": "E-22-B",
+        "whs": "WH-02",
+        "consignCd": "CS-005",
+        "mainComponent": "Communication",
+        "slAwb": "AWB-567890",
+        "nextDelDate": "2025-02-01",
+        "vendorAckDate": "2024-12-01",
+        "lastDelDate": "2025-01-28",
+        "dayShip": 35,
+        "recWhs": "WH-01",
+        "recBackQuant": 1,
+        "shipDateFrom": "2024-12-05",
+        "shNumber": "SH-005",
+        "scrapPercent": 3
+      },
+      {
+        "roDate": "2024-12-20",
+        "status": "In Progress",
+        "aging": 24,
+        "roNumber": "RO-2024-006",
+        "roShop": "Garmin Repair Facility",
+        "item": "Unit",
+        "pnOut": "NAV-5678",
+        "pnIn": "NAV-5678-CORE",
+        "modified": "2025-01-11",
+        "description": "GPS Navigation Unit Repair",
+        "serialNumber": "SN006789",
+        "qtyReser": 1,
+        "qtyRepaired": 0,
+        "repairCost": 9500,
+        "freight": 150,
+        "newSL": "SL-006",
+        "retCond": "New",
+        "lot": "LOT-6789",
+        "soNumber": "SO-2024-050",
+        "location": "F-10-A",
+        "whs": "WH-03",
+        "consignCd": "CS-006",
+        "mainComponent": "Navigation",
+        "slAwb": "AWB-678901",
+        "nextDelDate": "2025-01-22",
+        "vendorAckDate": "2024-12-21",
+        "lastDelDate": "2025-01-18",
+        "dayShip": 22,
+        "recWhs": "WH-02",
+        "recBackQuant": 1,
+        "shipDateFrom": "2024-12-25",
+        "shNumber": "SH-006",
+        "scrapPercent": 1
+      },
+      {
+        "roDate": "2024-11-15",
+        "status": "Completed",
+        "aging": 59,
+        "roNumber": "RO-2024-007",
+        "roShop": "Boeing Service Network",
+        "item": "Assembly",
+        "pnOut": "FLT-9012",
+        "pnIn": "FLT-9012-CORE",
+        "modified": "2024-12-28",
+        "description": "Flight Control Computer Repair",
+        "serialNumber": "SN007890",
+        "qtyReser": 1,
+        "qtyRepaired": 1,
+        "repairCost": 22000,
+        "freight": 300,
+        "newSL": "SL-007",
+        "retCond": "Serviceable",
+        "lot": "LOT-7890",
+        "soNumber": "SO-2024-051",
+        "location": "G-18-C",
+        "whs": "WH-01",
+        "consignCd": "CS-007",
+        "mainComponent": "Flight Controls",
+        "slAwb": "AWB-789012",
+        "nextDelDate": "2025-01-10",
+        "vendorAckDate": "2024-11-16",
+        "lastDelDate": "2025-01-05",
+        "dayShip": 38,
+        "recWhs": "WH-03",
+        "recBackQuant": 1,
+        "shipDateFrom": "2024-11-20",
+        "shNumber": "SH-007",
+        "scrapPercent": 12
+      },
+      {
+        "roDate": "2024-12-08",
+        "status": "Open",
+        "aging": 36,
+        "roNumber": "RO-2024-008",
+        "roShop": "Safran Electronics Service",
+        "item": "Component",
+        "pnOut": "ELE-7890",
+        "pnIn": "ELE-7890-CORE",
+        "modified": "2025-01-09",
+        "description": "Electronic Control Module Repair",
+        "serialNumber": "SN008901",
+        "qtyReser": 3,
+        "qtyRepaired": 1,
+        "repairCost": 14500,
+        "freight": 220,
+        "newSL": "SL-008",
+        "retCond": "Repairable",
+        "lot": "LOT-8901",
+        "soNumber": "SO-2024-052",
+        "location": "H-25-A",
+        "whs": "WH-02",
+        "consignCd": "CS-008",
+        "mainComponent": "Electronics",
+        "slAwb": "AWB-890123",
+        "nextDelDate": "2025-01-28",
+        "vendorAckDate": "2024-12-09",
+        "lastDelDate": "2025-01-25",
+        "dayShip": 32,
+        "recWhs": "WH-01",
+        "recBackQuant": 3,
+        "shipDateFrom": "2024-12-12",
+        "shNumber": "SH-008",
+        "scrapPercent": 6
+      },
+      {
+        "roDate": "2024-12-18",
+        "status": "Cancelled",
+        "aging": 26,
+        "roNumber": "RO-2024-009",
+        "roShop": "StandardAero",
+        "item": "Unit",
+        "pnOut": "TUR-3344",
+        "pnIn": "TUR-3344-CORE",
+        "modified": "2024-12-22",
+        "description": "Turbine Module Repair - Cancelled",
+        "serialNumber": "SN009012",
+        "qtyReser": 1,
+        "qtyRepaired": 0,
+        "repairCost": 0,
+        "freight": 0,
+        "newSL": "SL-009",
+        "retCond": "Scrap",
+        "lot": "LOT-9012",
+        "soNumber": "SO-2024-053",
+        "location": "I-30-B",
+        "whs": "WH-03",
+        "consignCd": "CS-009",
+        "mainComponent": "Engine",
+        "slAwb": "AWB-901234",
+        "nextDelDate": "N/A",
+        "vendorAckDate": "2024-12-19",
+        "lastDelDate": "N/A",
+        "dayShip": 0,
+        "recWhs": "WH-02",
+        "recBackQuant": 0,
+        "shipDateFrom": "N/A",
+        "shNumber": "SH-009",
+        "scrapPercent": 100
+      },
+      {
+        "roDate": "2024-12-22",
+        "status": "Open",
+        "aging": 22,
+        "roNumber": "RO-2024-010",
+        "roShop": "Lufthansa Technik",
+        "item": "Assembly",
+        "pnOut": "INT-4567",
+        "pnIn": "INT-4567-CORE",
+        "modified": "2025-01-13",
+        "description": "Interior Component Repair",
+        "serialNumber": "SN010123",
+        "qtyReser": 2,
+        "qtyRepaired": 0,
+        "repairCost": 6500,
+        "freight": 100,
+        "newSL": "SL-010",
+        "retCond": "Serviceable",
+        "lot": "LOT-0123",
+        "soNumber": "SO-2024-054",
+        "location": "J-12-C",
+        "whs": "WH-01",
+        "consignCd": "CS-010",
+        "mainComponent": "Interior",
+        "slAwb": "AWB-012345",
+        "nextDelDate": "2025-01-30",
+        "vendorAckDate": "2024-12-23",
+        "lastDelDate": "2025-01-27",
+        "dayShip": 20,
+        "recWhs": "WH-03",
+        "recBackQuant": 2,
+        "shipDateFrom": "2024-12-27",
+        "shNumber": "SH-010",
+        "scrapPercent": 4
+      }
+    ]
+  },
+  "tatAnalysis": {
+    "kpis": {
+      "longestTAT": 67,
+      "shortestTAT": 8,
+      "percentOverTarget": 23
+    },
+    "tatRecords": [
+      {
+        "roNumber": "RO-2024-3401",
+        "roShop": "AeroRepair Solutions",
+        "roDate": "2024-11-15",
+        "shipDate": "2024-11-18",
+        "deliveryDate": "2024-12-20",
+        "tatInternal": 3,
+        "tatExternal": 32
+      },
+      {
+        "roNumber": "RO-2024-3402",
+        "roShop": "Honeywell Service Center",
+        "roDate": "2024-12-01",
+        "shipDate": "2024-12-04",
+        "deliveryDate": "2024-12-28",
+        "tatInternal": 3,
+        "tatExternal": 24
+      },
+      {
+        "roNumber": "RO-2024-3403",
+        "roShop": "Garmin Repair Facility",
+        "roDate": "2024-10-20",
+        "shipDate": "2024-10-25",
+        "deliveryDate": "2024-12-15",
+        "tatInternal": 5,
+        "tatExternal": 51
+      },
+      {
+        "roNumber": "RO-2024-3404",
+        "roShop": "Boeing Service Network",
+        "roDate": "2024-11-30",
+        "shipDate": "2024-12-03",
+        "deliveryDate": "2025-01-10",
+        "tatInternal": 3,
+        "tatExternal": 38
+      },
+      {
+        "roNumber": "RO-2024-3405",
+        "roShop": "Parker Hannifin Service",
+        "roDate": "2024-12-10",
+        "shipDate": "2024-12-13",
+        "deliveryDate": "2024-12-30",
+        "tatInternal": 3,
+        "tatExternal": 17
+      },
+      {
+        "roNumber": "RO-2024-3406",
+        "roShop": "Pratt & Whitney Service",
+        "roDate": "2024-09-15",
+        "shipDate": "2024-09-20",
+        "deliveryDate": "2024-11-28",
+        "tatInternal": 5,
+        "tatExternal": 69
+      },
+      {
+        "roNumber": "RO-2024-3407",
+        "roShop": "Safran Electronics Service",
+        "roDate": "2024-11-25",
+        "shipDate": "2024-11-28",
+        "deliveryDate": "2025-01-05",
+        "tatInternal": 3,
+        "tatExternal": 38
+      },
+      {
+        "roNumber": "RO-2024-3408",
+        "roShop": "Messier-Dowty Service",
+        "roDate": "2024-10-10",
+        "shipDate": "2024-10-15",
+        "deliveryDate": "2024-12-18",
+        "tatInternal": 5,
+        "tatExternal": 64
+      },
+      {
+        "roNumber": "RO-2024-3409",
+        "roShop": "Collins Aerospace Service",
+        "roDate": "2024-12-05",
+        "shipDate": "2024-12-08",
+        "deliveryDate": "2025-01-12",
+        "tatInternal": 3,
+        "tatExternal": 35
+      },
+      {
+        "roNumber": "RO-2024-3411",
+        "roShop": "Honeywell APU Service",
+        "roDate": "2024-11-01",
+        "shipDate": "2024-11-05",
+        "deliveryDate": "2024-12-28",
+        "tatInternal": 4,
+        "tatExternal": 53
+      }
+    ],
+    "vendorTATData": [
+      {
+        "roShop": "AeroRepair Solutions",
+        "avgTAT": 35
+      },
+      {
+        "roShop": "Honeywell Service Center",
+        "avgTAT": 27
+      },
+      {
+        "roShop": "Garmin Repair Facility",
+        "avgTAT": 56
+      },
+      {
+        "roShop": "Boeing Service Network",
+        "avgTAT": 41
+      },
+      {
+        "roShop": "Parker Hannifin Service",
+        "avgTAT": 20
+      },
+      {
+        "roShop": "Pratt & Whitney Service",
+        "avgTAT": 74
+      },
+      {
+        "roShop": "Safran Electronics Service",
+        "avgTAT": 41
+      },
+      {
+        "roShop": "Lufthansa Technik",
+        "avgTAT": 48
+      },
+      {
+        "roShop": "Collins Aerospace Repair",
+        "avgTAT": 33
+      },
+      {
+        "roShop": "Messier-Dowty Service",
+        "avgTAT": 69
+      },
+      {
+        "roShop": "GE Aviation Services",
+        "avgTAT": 52
+      },
+      {
+        "roShop": "MTU Maintenance",
+        "avgTAT": 39
+      },
+      {
+        "roShop": "StandardAero",
+        "avgTAT": 44
+      },
+      {
+        "roShop": "Duncan Aviation",
+        "avgTAT": 31
+      },
+      {
+        "roShop": "Rolls-Royce Service",
+        "avgTAT": 67
+      },
+      {
+        "roShop": "BBA Aviation",
+        "avgTAT": 29
+      },
+      {
+        "roShop": "Haeco Americas",
+        "avgTAT": 42
+      },
+      {
+        "roShop": "FL Technics",
+        "avgTAT": 36
+      },
+      {
+        "roShop": "AAR Corp Services",
+        "avgTAT": 38
+      },
+      {
+        "roShop": "ST Engineering Aerospace",
+        "avgTAT": 45
+      },
+      {
+        "roShop": "TAP Maintenance",
+        "avgTAT": 51
+      },
+      {
+        "roShop": "Air France Industries",
+        "avgTAT": 34
+      },
+      {
+        "roShop": "Ameco Beijing",
+        "avgTAT": 47
+      },
+      {
+        "roShop": "Turkish Technic",
+        "avgTAT": 40
+      },
+      {
+        "roShop": "SIA Engineering",
+        "avgTAT": 43
+      }
+    ],
+    "tatDistribution": [
+      {
+        "range": "0-15 days",
+        "internal": 245,
+        "external": 89
+      },
+      {
+        "range": "16-30 days",
+        "internal": 189,
+        "external": 156
+      },
+      {
+        "range": "31-45 days",
+        "internal": 67,
+        "external": 134
+      },
+      {
+        "range": "46-60 days",
+        "internal": 23,
+        "external": 78
+      },
+      {
+        "range": "60+ days",
+        "internal": 8,
+        "external": 45
+      }
+    ]
+  },
+  "scrapQuality": {
+    "scrapEvents": [
+      {
+        "partNumber": "ENG-7845",
+        "roShop": "AeroRepair Solutions",
+        "avgScrapPercent": 12.5,
+        "scrapCount": 8
+      },
+      {
+        "partNumber": "AVI-2134",
+        "roShop": "Honeywell Service Center",
+        "avgScrapPercent": 6.2,
+        "scrapCount": 4
+      },
+      {
+        "partNumber": "NAV-5678",
+        "roShop": "Garmin Repair Facility",
+        "avgScrapPercent": 18.7,
+        "scrapCount": 12
+      },
+      {
+        "partNumber": "FLT-9012",
+        "roShop": "Boeing Service Network",
+        "avgScrapPercent": 9.3,
+        "scrapCount": 6
+      },
+      {
+        "partNumber": "HYD-3456",
+        "roShop": "Parker Hannifin Service",
+        "avgScrapPercent": 4.1,
+        "scrapCount": 3
+      },
+      {
+        "partNumber": "ENG-1123",
+        "roShop": "Pratt & Whitney Service",
+        "avgScrapPercent": 15.8,
+        "scrapCount": 11
+      },
+      {
+        "partNumber": "ELE-7890",
+        "roShop": "Safran Electronics Service",
+        "avgScrapPercent": 7.4,
+        "scrapCount": 5
+      },
+      {
+        "partNumber": "LAG-6789",
+        "roShop": "Messier-Dowty Service",
+        "avgScrapPercent": 22.1,
+        "scrapCount": 15
+      },
+      {
+        "partNumber": "COM-8901",
+        "roShop": "Collins Aerospace Service",
+        "avgScrapPercent": 8.9,
+        "scrapCount": 7
+      },
+      {
+        "partNumber": "APU-1234",
+        "roShop": "Honeywell APU Service",
+        "avgScrapPercent": 11.6,
+        "scrapCount": 9
+      }
+    ],
+    "topScrappedPNs": [
+      {
+        "partNumber": "LAG-6789",
+        "scrapCount": 15
+      },
+      {
+        "partNumber": "NAV-5678",
+        "scrapCount": 12
+      },
+      {
+        "partNumber": "ENG-1123",
+        "scrapCount": 11
+      },
+      {
+        "partNumber": "APU-1234",
+        "scrapCount": 9
+      },
+      {
+        "partNumber": "ENG-7845",
+        "scrapCount": 8
+      },
+      {
+        "partNumber": "COM-8901",
+        "scrapCount": 7
+      },
+      {
+        "partNumber": "FLT-9012",
+        "scrapCount": 6
+      }
+    ],
+    "vendorScrapData": [
+      {
+        "roShop": "Messier-Dowty Service",
+        "avgScrapPercent": 22.1
+      },
+      {
+        "roShop": "Garmin Repair Facility",
+        "avgScrapPercent": 18.7
+      },
+      {
+        "roShop": "Pratt & Whitney Service",
+        "avgScrapPercent": 15.8
+      },
+      {
+        "roShop": "AeroRepair Solutions",
+        "avgScrapPercent": 12.5
+      },
+      {
+        "roShop": "Honeywell APU Service",
+        "avgScrapPercent": 11.6
+      },
+      {
+        "roShop": "Boeing Service Network",
+        "avgScrapPercent": 9.3
+      },
+      {
+        "roShop": "Collins Aerospace Service",
+        "avgScrapPercent": 8.9
+      }
+    ]
+  },
+  "vendorInsights": {
+    "vendorRecap": [
+      {
+        "roShop": "AeroRepair Solutions",
+        "qtyOfROs": 187,
+        "totalROAmount": "$2,340,000",
+        "totalROAmountNum": 2340000
+      },
+      {
+        "roShop": "Honeywell Service Center",
+        "qtyOfROs": 156,
+        "totalROAmount": "$1,890,000",
+        "totalROAmountNum": 1890000
+      },
+      {
+        "roShop": "Pratt & Whitney Service",
+        "qtyOfROs": 134,
+        "totalROAmount": "$3,560,000",
+        "totalROAmountNum": 3560000
+      },
+      {
+        "roShop": "Boeing Service Network",
+        "qtyOfROs": 123,
+        "totalROAmount": "$2,780,000",
+        "totalROAmountNum": 2780000
+      },
+      {
+        "roShop": "Garmin Repair Facility",
+        "qtyOfROs": 98,
+        "totalROAmount": "$1,240,000",
+        "totalROAmountNum": 1240000
+      },
+      {
+        "roShop": "Collins Aerospace Service",
+        "qtyOfROs": 89,
+        "totalROAmount": "$1,560,000",
+        "totalROAmountNum": 1560000
+      },
+      {
+        "roShop": "Parker Hannifin Service",
+        "qtyOfROs": 76,
+        "totalROAmount": "$890,000",
+        "totalROAmountNum": 890000
+      }
+    ],
+    "vendorAmountData": [
+      {
+        "roShop": "Pratt & Whitney",
+        "roAmount": 3560000
+      },
+      {
+        "roShop": "Boeing Service",
+        "roAmount": 2780000
+      },
+      {
+        "roShop": "AeroRepair",
+        "roAmount": 2340000
+      },
+      {
+        "roShop": "Honeywell",
+        "roAmount": 1890000
+      },
+      {
+        "roShop": "Collins Aerospace",
+        "roAmount": 1560000
+      },
+      {
+        "roShop": "Garmin",
+        "roAmount": 1240000
+      },
+      {
+        "roShop": "Parker Hannifin",
+        "roAmount": 890000
+      }
+    ],
+    "vendorVolumeData": [
+      {
+        "roShop": "AeroRepair",
+        "roCount": 187
+      },
+      {
+        "roShop": "Honeywell",
+        "roCount": 156
+      },
+      {
+        "roShop": "Pratt & Whitney",
+        "roCount": 134
+      },
+      {
+        "roShop": "Boeing Service",
+        "roCount": 123
+      },
+      {
+        "roShop": "Garmin",
+        "roCount": 98
+      },
+      {
+        "roShop": "Collins Aerospace",
+        "roCount": 89
+      },
+      {
+        "roShop": "Parker Hannifin",
+        "roCount": 76
+      }
+    ],
+    "vendorSpendData": [
+      {
+        "roShop": "Pratt & Whitney Service",
+        "roAmount": 3560000,
+        "color": "#3B82F6"
+      },
+      {
+        "roShop": "Boeing Service Network",
+        "roAmount": 2780000,
+        "color": "#10B981"
+      },
+      {
+        "roShop": "AeroRepair Solutions",
+        "roAmount": 2340000,
+        "color": "#F59E0B"
+      },
+      {
+        "roShop": "Honeywell Service Center",
+        "roAmount": 1890000,
+        "color": "#EF4444"
+      },
+      {
+        "roShop": "Collins Aerospace Service",
+        "roAmount": 1560000,
+        "color": "#8B5CF6"
+      },
+      {
+        "roShop": "Others",
+        "roAmount": 2130000,
+        "color": "#6B7280"
+      }
+    ]
+  },
+  "lastUpdated": "Today, 4:15 PM"
+}

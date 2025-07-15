@@ -1,0 +1,397 @@
+{
+  "executiveOverview": {
+    "companyPulse": {
+      "mtdSales": "$2.3M",
+      "mtdQuotes": "$17.3M",
+      "openROs": 123,
+      "arBalance": "$2.9M",
+      "apBalance": "$2.6M",
+      "incomingShipments": 98,
+      "forecast90d": "$6.1M"
+    },
+    "salesQuotesTrend": [
+      {
+        "month": "Jul 2024",
+        "sales": 1850000,
+        "quotes": 12400000
+      },
+      {
+        "month": "Aug 2024",
+        "sales": 2100000,
+        "quotes": 14200000
+      },
+      {
+        "month": "Sep 2024",
+        "sales": 1950000,
+        "quotes": 13800000
+      },
+      {
+        "month": "Oct 2024",
+        "sales": 2250000,
+        "quotes": 15600000
+      },
+      {
+        "month": "Nov 2024",
+        "sales": 2080000,
+        "quotes": 14900000
+      },
+      {
+        "month": "Dec 2024",
+        "sales": 2420000,
+        "quotes": 16700000
+      },
+      {
+        "month": "Jan 2025",
+        "sales": 2300000,
+        "quotes": 17300000
+      }
+    ],
+    "cashFlowData": [
+      {
+        "month": "Jul 2024",
+        "payables": 2200000,
+        "receivables": 2800000
+      },
+      {
+        "month": "Aug 2024",
+        "payables": 2400000,
+        "receivables": 3100000
+      },
+      {
+        "month": "Sep 2024",
+        "payables": 2300000,
+        "receivables": 2950000
+      },
+      {
+        "month": "Oct 2024",
+        "payables": 2650000,
+        "receivables": 3250000
+      },
+      {
+        "month": "Nov 2024",
+        "payables": 2500000,
+        "receivables": 3080000
+      },
+      {
+        "month": "Dec 2024",
+        "payables": 2750000,
+        "receivables": 3420000
+      },
+      {
+        "month": "Jan 2025",
+        "payables": 2600000,
+        "receivables": 2900000
+      }
+    ],
+    "vendorSpendData": [
+      {
+        "vendor": "Pratt & Whitney",
+        "spend": 3560000
+      },
+      {
+        "vendor": "Boeing Service",
+        "spend": 2780000
+      },
+      {
+        "vendor": "AeroRepair Solutions",
+        "spend": 2340000
+      },
+      {
+        "vendor": "Honeywell Service",
+        "spend": 1890000
+      },
+      {
+        "vendor": "Collins Aerospace",
+        "spend": 1560000
+      },
+      {
+        "vendor": "Garmin Repair",
+        "spend": 1240000
+      },
+      {
+        "vendor": "Parker Hannifin",
+        "spend": 890000
+      }
+    ],
+    "pnPerformanceData": [
+      {
+        "pnId": "ENG-7845",
+        "timesQuoted": 45,
+        "timesSold": 28,
+        "revenue": 1850000
+      },
+      {
+        "pnId": "AVI-2134",
+        "timesQuoted": 38,
+        "timesSold": 22,
+        "revenue": 1420000
+      },
+      {
+        "pnId": "NAV-5678",
+        "timesQuoted": 52,
+        "timesSold": 31,
+        "revenue": 2100000
+      },
+      {
+        "pnId": "FLT-9012",
+        "timesQuoted": 29,
+        "timesSold": 18,
+        "revenue": 980000
+      },
+      {
+        "pnId": "HYD-3456",
+        "timesQuoted": 41,
+        "timesSold": 25,
+        "revenue": 1650000
+      },
+      {
+        "pnId": "ENG-1123",
+        "timesQuoted": 35,
+        "timesSold": 20,
+        "revenue": 1200000
+      },
+      {
+        "pnId": "ELE-7890",
+        "timesQuoted": 47,
+        "timesSold": 29,
+        "revenue": 1750000
+      },
+      {
+        "pnId": "LAG-6789",
+        "timesQuoted": 33,
+        "timesSold": 19,
+        "revenue": 1100000
+      },
+      {
+        "pnId": "COM-8901",
+        "timesQuoted": 39,
+        "timesSold": 24,
+        "revenue": 1380000
+      },
+      {
+        "pnId": "APU-1234",
+        "timesQuoted": 44,
+        "timesSold": 27,
+        "revenue": 1620000
+      }
+    ],
+    "employeePerformance": [
+      {
+        "name": "Michael Johnson",
+        "salesAmount": "$485,000",
+        "quotesCount": 34,
+        "conversionPercent": 68,
+        "totalAmount": "$1,245,000"
+      },
+      {
+        "name": "Sarah Williams",
+        "salesAmount": "$420,000",
+        "quotesCount": 29,
+        "conversionPercent": 72,
+        "totalAmount": "$1,180,000"
+      },
+      {
+        "name": "David Chen",
+        "salesAmount": "$395,000",
+        "quotesCount": 31,
+        "conversionPercent": 65,
+        "totalAmount": "$1,095,000"
+      },
+      {
+        "name": "Jennifer Davis",
+        "salesAmount": "$365,000",
+        "quotesCount": 27,
+        "conversionPercent": 70,
+        "totalAmount": "$1,025,000"
+      },
+      {
+        "name": "Robert Martinez",
+        "salesAmount": "$340,000",
+        "quotesCount": 25,
+        "conversionPercent": 64,
+        "totalAmount": "$960,000"
+      },
+      {
+        "name": "Lisa Thompson",
+        "salesAmount": "$315,000",
+        "quotesCount": 23,
+        "conversionPercent": 69,
+        "totalAmount": "$890,000"
+      },
+      {
+        "name": "James Anderson",
+        "salesAmount": "$290,000",
+        "quotesCount": 21,
+        "conversionPercent": 62,
+        "totalAmount": "$825,000"
+      }
+    ],
+    "keyAccounts": [
+      {
+        "customer": "American Airlines",
+        "quotesCount": 78,
+        "salesCount": 52,
+        "conversionPercent": 67,
+        "revenue": "$3,850,000"
+      },
+      {
+        "customer": "Delta Air Lines",
+        "quotesCount": 65,
+        "salesCount": 41,
+        "conversionPercent": 63,
+        "revenue": "$3,240,000"
+      },
+      {
+        "customer": "United Airlines",
+        "quotesCount": 59,
+        "salesCount": 39,
+        "conversionPercent": 66,
+        "revenue": "$2,980,000"
+      },
+      {
+        "customer": "Southwest Airlines",
+        "quotesCount": 54,
+        "salesCount": 33,
+        "conversionPercent": 61,
+        "revenue": "$2,650,000"
+      },
+      {
+        "customer": "JetBlue Airways",
+        "quotesCount": 42,
+        "salesCount": 29,
+        "conversionPercent": 69,
+        "revenue": "$2,180,000"
+      },
+      {
+        "customer": "Alaska Airlines",
+        "quotesCount": 38,
+        "salesCount": 24,
+        "conversionPercent": 63,
+        "revenue": "$1,920,000"
+      },
+      {
+        "customer": "Spirit Airlines",
+        "quotesCount": 35,
+        "salesCount": 21,
+        "conversionPercent": 60,
+        "revenue": "$1,680,000"
+      },
+      {
+        "customer": "Frontier Airlines",
+        "quotesCount": 31,
+        "salesCount": 19,
+        "conversionPercent": 61,
+        "revenue": "$1,450,000"
+      }
+    ],
+    "logisticsStatus": [
+      {
+        "shipmentId": "SH-2025-001",
+        "type": "Inbound",
+        "status": "In Transit",
+        "expectedDate": "2025-01-15",
+        "delayFlag": false
+      },
+      {
+        "shipmentId": "SH-2025-002",
+        "type": "Outbound",
+        "status": "Delivered",
+        "expectedDate": "2025-01-12",
+        "delayFlag": false
+      },
+      {
+        "shipmentId": "SH-2025-003",
+        "type": "Inbound",
+        "status": "Delayed",
+        "expectedDate": "2025-01-14",
+        "delayFlag": true
+      },
+      {
+        "shipmentId": "SH-2025-004",
+        "type": "Outbound",
+        "status": "Processing",
+        "expectedDate": "2025-01-16",
+        "delayFlag": false
+      },
+      {
+        "shipmentId": "SH-2025-005",
+        "type": "Inbound",
+        "status": "In Transit",
+        "expectedDate": "2025-01-17",
+        "delayFlag": false
+      },
+      {
+        "shipmentId": "SH-2025-006",
+        "type": "Outbound",
+        "status": "Delayed",
+        "expectedDate": "2025-01-13",
+        "delayFlag": true
+      },
+      {
+        "shipmentId": "SH-2025-007",
+        "type": "Inbound",
+        "status": "Delivered",
+        "expectedDate": "2025-01-11",
+        "delayFlag": false
+      },
+      {
+        "shipmentId": "SH-2025-008",
+        "type": "Outbound",
+        "status": "Processing",
+        "expectedDate": "2025-01-18",
+        "delayFlag": false
+      }
+    ],
+    "exceptionsAlerts": [
+      {
+        "type": "Payment Overdue",
+        "department": "Finance",
+        "description": "Invoice #INV-2024-1245 overdue by 15 days",
+        "status": "Open"
+      },
+      {
+        "type": "Inventory Low",
+        "department": "Inventory",
+        "description": "PN ENG-7845 below minimum threshold",
+        "status": "In Progress"
+      },
+      {
+        "type": "Shipment Delay",
+        "department": "Logistics",
+        "description": "Shipment SH-2025-003 delayed 3 days",
+        "status": "Open"
+      },
+      {
+        "type": "Quote Expiring",
+        "department": "Sales",
+        "description": "Quote Q-2024-0892 expires in 2 days",
+        "status": "Open"
+      },
+      {
+        "type": "RO Overdue",
+        "department": "Repairs",
+        "description": "RO-2024-045 exceeded TAT by 10 days",
+        "status": "In Progress"
+      },
+      {
+        "type": "Customer Credit Hold",
+        "department": "Finance",
+        "description": "Customer ABC Corp on credit hold",
+        "status": "Resolved"
+      },
+      {
+        "type": "Missing AWB",
+        "department": "Logistics",
+        "description": "Shipment SH-2025-009 missing AWB number",
+        "status": "Open"
+      },
+      {
+        "type": "Price Variance",
+        "department": "Sales",
+        "description": "PO-2025-012 price variance exceeds 10%",
+        "status": "In Progress"
+      }
+    ]
+  },
+  "lastUpdated": "Today, 4:20 PM"
+}

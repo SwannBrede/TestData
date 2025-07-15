@@ -1,0 +1,894 @@
+{
+  "accountPayables": {
+    "kpis": {
+      "totalPayablesAmount": "$4.8M",
+      "totalPayablesBalance": "$2.3M",
+      "trendData": [
+        { "month": "Jul", "amount": 820000, "formattedAmount": "$820K" },
+        { "month": "Aug", "amount": 950000, "formattedAmount": "$950K" },
+        { "month": "Sep", "amount": 680000, "formattedAmount": "$680K" },
+        { "month": "Oct", "amount": 1100000, "formattedAmount": "$1.1M" },
+        { "month": "Nov", "amount": 890000, "formattedAmount": "$890K" },
+        { "month": "Dec", "amount": 760000, "formattedAmount": "$760K" },
+        { "month": "Jan", "amount": 1050000, "formattedAmount": "$1.05M" }
+      ]
+    },
+    "payables": [
+      {
+        "apCtrlNumber": "AP-2025-001",
+        "vendInvDate": "2024-12-15",
+        "vendInvNbr": "INV-PW-24-1205",
+        "company": "AeroTech Solutions",
+        "companyCode": "ATS",
+        "poNbr": "PO-2024-158",
+        "roNbr": null,
+        "consignment": "Own Stock",
+        "entryDate": "2024-12-15",
+        "lastPayDate": null,
+        "dueDate": "2025-01-15",
+        "aging": 28,
+        "currency": "USD",
+        "amount": "$125,000",
+        "balance": "$125,000",
+        "terms": "Net 30",
+        "status": "Open"
+      },
+      {
+        "apCtrlNumber": "AP-2025-002",
+        "vendInvDate": "2024-12-01",
+        "vendInvNbr": "INV-HON-24-1201",
+        "company": "SkyLine Aviation",
+        "companyCode": "SLA",
+        "poNbr": "PO-2024-142",
+        "roNbr": null,
+        "consignment": "Own Stock",
+        "entryDate": "2024-12-01",
+        "lastPayDate": "2024-12-28",
+        "dueDate": "2024-12-31",
+        "aging": 0,
+        "currency": "USD",
+        "amount": "$87,500",
+        "balance": "$0",
+        "terms": "Net 30",
+        "status": "Paid"
+      },
+      {
+        "apCtrlNumber": "AP-2025-003",
+        "vendInvDate": "2024-11-20",
+        "vendInvNbr": "INV-SAF-24-1120",
+        "company": "AeroTech Solutions",
+        "companyCode": "ATS",
+        "poNbr": null,
+        "roNbr": "RO-2024-089",
+        "consignment": "Repair Exchange",
+        "entryDate": "2024-11-20",
+        "lastPayDate": null,
+        "dueDate": "2024-12-20",
+        "aging": 54,
+        "currency": "USD",
+        "amount": "$95,250",
+        "balance": "$95,250",
+        "terms": "Net 30",
+        "status": "Overdue"
+      },
+      {
+        "apCtrlNumber": "AP-2025-004",
+        "vendInvDate": "2024-12-10",
+        "vendInvNbr": "INV-COL-24-1210",
+        "company": "FlightTech Corp",
+        "companyCode": "FTC",
+        "poNbr": "PO-2024-167",
+        "roNbr": null,
+        "consignment": "Consignment",
+        "entryDate": "2024-12-10",
+        "lastPayDate": null,
+        "dueDate": "2025-01-10",
+        "aging": 33,
+        "currency": "USD",
+        "amount": "$42,800",
+        "balance": "$42,800",
+        "terms": "Net 30",
+        "status": "Processing"
+      },
+      {
+        "apCtrlNumber": "AP-2025-005",
+        "vendInvDate": "2024-12-05",
+        "vendInvNbr": "INV-BOE-24-1205",
+        "company": "AeroTech Solutions",
+        "companyCode": "ATS",
+        "poNbr": "PO-2024-155",
+        "roNbr": null,
+        "consignment": "Own Stock",
+        "entryDate": "2024-12-05",
+        "lastPayDate": "2024-12-30",
+        "dueDate": "2025-01-05",
+        "aging": 38,
+        "currency": "USD",
+        "amount": "$210,000",
+        "balance": "$105,000",
+        "terms": "Net 30",
+        "status": "Partial"
+      },
+      {
+        "apCtrlNumber": "AP-2025-006",
+        "vendInvDate": "2024-11-25",
+        "vendInvNbr": "INV-AIR-24-1125",
+        "company": "SkyLine Aviation",
+        "companyCode": "SLA",
+        "poNbr": "PO-2024-163",
+        "roNbr": null,
+        "consignment": "Consignment",
+        "entryDate": "2024-11-25",
+        "lastPayDate": null,
+        "dueDate": "2024-12-25",
+        "aging": 49,
+        "currency": "USD",
+        "amount": "$156,750",
+        "balance": "$156,750",
+        "terms": "Net 30",
+        "status": "Overdue"
+      },
+      {
+        "apCtrlNumber": "AP-2025-007",
+        "vendInvDate": "2024-12-02",
+        "vendInvNbr": "INV-GAR-24-1202",
+        "company": "SkyLine Aviation",
+        "companyCode": "SLA",
+        "poNbr": "PO-2024-151",
+        "roNbr": null,
+        "consignment": "Own Stock",
+        "entryDate": "2024-12-02",
+        "lastPayDate": null,
+        "dueDate": "2024-12-30",
+        "aging": 43,
+        "currency": "USD",
+        "amount": "$33,600",
+        "balance": "$33,600",
+        "terms": "Net 30",
+        "status": "Open"
+      },
+      {
+        "apCtrlNumber": "AP-2025-008",
+        "vendInvDate": "2024-12-08",
+        "vendInvNbr": "INV-RR-24-1208",
+        "company": "FlightTech Corp",
+        "companyCode": "FTC",
+        "poNbr": "PO-2024-171",
+        "roNbr": null,
+        "consignment": "Own Stock",
+        "entryDate": "2024-12-08",
+        "lastPayDate": "2025-01-02",
+        "dueDate": "2025-01-08",
+        "aging": 35,
+        "currency": "USD",
+        "amount": "$165,000",
+        "balance": "$82,500",
+        "terms": "Net 30",
+        "status": "Partial"
+      },
+      {
+        "apCtrlNumber": "AP-2025-009",
+        "vendInvDate": "2024-12-12",
+        "vendInvNbr": "INV-THA-24-1212",
+        "company": "AeroTech Solutions",
+        "companyCode": "ATS",
+        "poNbr": "PO-2024-176",
+        "roNbr": null,
+        "consignment": "Consignment",
+        "entryDate": "2024-12-12",
+        "lastPayDate": null,
+        "dueDate": "2025-01-12",
+        "aging": 31,
+        "currency": "USD",
+        "amount": "$75,400",
+        "balance": "$75,400",
+        "terms": "Net 30",
+        "status": "Open"
+      },
+      {
+        "apCtrlNumber": "AP-2025-010",
+        "vendInvDate": "2024-11-28",
+        "vendInvNbr": "INV-SPI-24-1128",
+        "company": "FlightTech Corp",
+        "companyCode": "FTC",
+        "poNbr": null,
+        "roNbr": "RO-2024-105",
+        "consignment": "Repair Exchange",
+        "entryDate": "2024-11-28",
+        "lastPayDate": null,
+        "dueDate": "2024-12-28",
+        "aging": 46,
+        "currency": "USD",
+        "amount": "$128,500",
+        "balance": "$128,500",
+        "terms": "Net 30",
+        "status": "Overdue"
+      },
+      {
+        "apCtrlNumber": "AP-2025-011",
+        "vendInvDate": "2024-12-20",
+        "vendInvNbr": "INV-GE-24-1220",
+        "company": "AeroTech Solutions",
+        "companyCode": "ATS",
+        "poNbr": "PO-2024-180",
+        "roNbr": null,
+        "consignment": "Own Stock",
+        "entryDate": "2024-12-20",
+        "lastPayDate": null,
+        "dueDate": "2025-01-20",
+        "aging": 23,
+        "currency": "USD",
+        "amount": "$89,600",
+        "balance": "$89,600",
+        "terms": "Net 30",
+        "status": "Open"
+      },
+      {
+        "apCtrlNumber": "AP-2025-012",
+        "vendInvDate": "2024-11-15",
+        "vendInvNbr": "INV-MTU-24-1115",
+        "company": "SkyLine Aviation",
+        "companyCode": "SLA",
+        "poNbr": null,
+        "roNbr": "RO-2024-112",
+        "consignment": "Repair Exchange",
+        "entryDate": "2024-11-15",
+        "lastPayDate": null,
+        "dueDate": "2024-12-15",
+        "aging": 59,
+        "currency": "USD",
+        "amount": "$67,300",
+        "balance": "$67,300",
+        "terms": "Net 30",
+        "status": "Overdue"
+      },
+      {
+        "apCtrlNumber": "AP-2025-013",
+        "vendInvDate": "2024-12-18",
+        "vendInvNbr": "INV-HAM-24-1218",
+        "company": "FlightTech Corp",
+        "companyCode": "FTC",
+        "poNbr": "PO-2024-185",
+        "roNbr": null,
+        "consignment": "Consignment",
+        "entryDate": "2024-12-18",
+        "lastPayDate": null,
+        "dueDate": "2025-01-18",
+        "aging": 25,
+        "currency": "USD",
+        "amount": "$143,200",
+        "balance": "$143,200",
+        "terms": "Net 30",
+        "status": "Open"
+      },
+      {
+        "apCtrlNumber": "AP-2025-014",
+        "vendInvDate": "2024-12-03",
+        "vendInvNbr": "INV-ZOD-24-1203",
+        "company": "AeroTech Solutions",
+        "companyCode": "ATS",
+        "poNbr": "PO-2024-170",
+        "roNbr": null,
+        "consignment": "Own Stock",
+        "entryDate": "2024-12-03",
+        "lastPayDate": "2025-01-05",
+        "dueDate": "2025-01-03",
+        "aging": 40,
+        "currency": "USD",
+        "amount": "$95,800",
+        "balance": "$47,900",
+        "terms": "Net 30",
+        "status": "Partial"
+      },
+      {
+        "apCtrlNumber": "AP-2025-015",
+        "vendInvDate": "2024-11-10",
+        "vendInvNbr": "INV-EAT-24-1110",
+        "company": "SkyLine Aviation",
+        "companyCode": "SLA",
+        "poNbr": null,
+        "roNbr": "RO-2024-098",
+        "consignment": "Repair Exchange",
+        "entryDate": "2024-11-10",
+        "lastPayDate": null,
+        "dueDate": "2024-12-10",
+        "aging": 64,
+        "currency": "USD",
+        "amount": "$78,400",
+        "balance": "$78,400",
+        "terms": "Net 30",
+        "status": "Overdue"
+      },
+      {
+        "apCtrlNumber": "AP-2025-016",
+        "vendInvDate": "2024-12-25",
+        "vendInvNbr": "INV-DAH-24-1225",
+        "company": "FlightTech Corp",
+        "companyCode": "FTC",
+        "poNbr": "PO-2024-192",
+        "roNbr": null,
+        "consignment": "Consignment",
+        "entryDate": "2024-12-25",
+        "lastPayDate": null,
+        "dueDate": "2025-01-25",
+        "aging": 18,
+        "currency": "USD",
+        "amount": "$112,500",
+        "balance": "$112,500",
+        "terms": "Net 30",
+        "status": "Open"
+      },
+      {
+        "apCtrlNumber": "AP-2025-017",
+        "vendInvDate": "2024-11-08",
+        "vendInvNbr": "INV-BFG-24-1108",
+        "company": "AeroTech Solutions",
+        "companyCode": "ATS",
+        "poNbr": "PO-2024-145",
+        "roNbr": null,
+        "consignment": "Own Stock",
+        "entryDate": "2024-11-08",
+        "lastPayDate": null,
+        "dueDate": "2024-12-08",
+        "aging": 66,
+        "currency": "USD",
+        "amount": "$154,700",
+        "balance": "$154,700",
+        "terms": "Net 30",
+        "status": "Overdue"
+      },
+      {
+        "apCtrlNumber": "AP-2025-018",
+        "vendInvDate": "2024-12-22",
+        "vendInvNbr": "INV-MEG-24-1222",
+        "company": "SkyLine Aviation",
+        "companyCode": "SLA",
+        "poNbr": "PO-2024-188",
+        "roNbr": null,
+        "consignment": "Consignment",
+        "entryDate": "2024-12-22",
+        "lastPayDate": null,
+        "dueDate": "2025-01-22",
+        "aging": 21,
+        "currency": "USD",
+        "amount": "$87,200",
+        "balance": "$87,200",
+        "terms": "Net 30",
+        "status": "Open"
+      },
+      {
+        "apCtrlNumber": "AP-2025-019",
+        "vendInvDate": "2024-12-06",
+        "vendInvNbr": "INV-STA-24-1206",
+        "company": "FlightTech Corp",
+        "companyCode": "FTC",
+        "poNbr": null,
+        "roNbr": "RO-2024-118",
+        "consignment": "Repair Exchange",
+        "entryDate": "2024-12-06",
+        "lastPayDate": "2025-01-08",
+        "dueDate": "2025-01-06",
+        "aging": 37,
+        "currency": "USD",
+        "amount": "$126,800",
+        "balance": "$63,400",
+        "terms": "Net 30",
+        "status": "Partial"
+      },
+      {
+        "apCtrlNumber": "AP-2025-020",
+        "vendInvDate": "2024-11-02",
+        "vendInvNbr": "INV-TEL-24-1102",
+        "company": "AeroTech Solutions",
+        "companyCode": "ATS",
+        "poNbr": "PO-2024-138",
+        "roNbr": null,
+        "consignment": "Own Stock",
+        "entryDate": "2024-11-02",
+        "lastPayDate": null,
+        "dueDate": "2024-12-02",
+        "aging": 72,
+        "currency": "USD",
+        "amount": "$198,500",
+        "balance": "$198,500",
+        "terms": "Net 30",
+        "status": "Overdue"
+      }
+    ]
+  },
+  "accountReceivables": {
+    "kpis": {
+      "totalReceivablesAmount": "$6.2M",
+      "totalReceivablesBalance": "$3.8M",
+      "trendData": [
+        { "month": "Jul", "amount": 950000, "formattedAmount": "$950K" },
+        { "month": "Aug", "amount": 1100000, "formattedAmount": "$1.1M" },
+        { "month": "Sep", "amount": 820000, "formattedAmount": "$820K" },
+        { "month": "Oct", "amount": 1350000, "formattedAmount": "$1.35M" },
+        { "month": "Nov", "amount": 1050000, "formattedAmount": "$1.05M" },
+        { "month": "Dec", "amount": 890000, "formattedAmount": "$890K" },
+        { "month": "Jan", "amount": 1250000, "formattedAmount": "$1.25M" }
+      ]
+    },
+    "receivables": [
+      {
+        "arCtrlNumber": "AR-2025-001",
+        "customer": "Delta Air Lines",
+        "companyCode": "DAL",
+        "description": "Engine Repair Services - CF6-80C2",
+        "consignmentCode": "DAL-001",
+        "entryDate": "2024-12-18",
+        "finalDate": "2025-01-15",
+        "dueDate": "2025-01-18",
+        "aging": 25,
+        "lastPayDate": null,
+        "invoiceAmount": "$245,000",
+        "balance": "$245,000",
+        "status": "Open"
+      },
+      {
+        "arCtrlNumber": "AR-2025-002",
+        "customer": "United Airlines",
+        "companyCode": "UAL",
+        "description": "Avionics Component Overhaul",
+        "consignmentCode": "UAL-002",
+        "entryDate": "2024-12-05",
+        "finalDate": "2025-01-02",
+        "dueDate": "2025-01-05",
+        "aging": 38,
+        "lastPayDate": "2024-12-30",
+        "invoiceAmount": "$185,500",
+        "balance": "$92,750",
+        "status": "Partial"
+      },
+      {
+        "arCtrlNumber": "AR-2025-003",
+        "customer": "American Airlines",
+        "companyCode": "AAL",
+        "description": "Landing Gear Hydraulic System",
+        "consignmentCode": "AAL-003",
+        "entryDate": "2024-11-28",
+        "finalDate": "2024-12-25",
+        "dueDate": "2024-12-28",
+        "aging": 46,
+        "lastPayDate": null,
+        "invoiceAmount": "$310,000",
+        "balance": "$310,000",
+        "status": "Overdue"
+      },
+      {
+        "arCtrlNumber": "AR-2025-004",
+        "customer": "Southwest Airlines",
+        "companyCode": "LUV",
+        "description": "Flight Control System Repair",
+        "consignmentCode": "LUV-004",
+        "entryDate": "2024-12-10",
+        "finalDate": "2025-01-05",
+        "dueDate": "2025-01-10",
+        "aging": 0,
+        "lastPayDate": "2025-01-08",
+        "invoiceAmount": "$125,800",
+        "balance": "$0",
+        "status": "Paid"
+      },
+      {
+        "arCtrlNumber": "AR-2025-005",
+        "customer": "JetBlue Airways",
+        "companyCode": "JBLU",
+        "description": "Cabin Pressure System Overhaul",
+        "consignmentCode": "JBLU-005",
+        "entryDate": "2024-12-02",
+        "finalDate": "2024-12-30",
+        "dueDate": "2025-01-02",
+        "aging": 41,
+        "lastPayDate": null,
+        "invoiceAmount": "$98,750",
+        "balance": "$98,750",
+        "status": "Overdue"
+      },
+      {
+        "arCtrlNumber": "AR-2025-006",
+        "customer": "Alaska Airlines",
+        "companyCode": "ALK",
+        "description": "Engine Component Inspection",
+        "consignmentCode": "ALK-006",
+        "entryDate": "2024-12-15",
+        "finalDate": "2025-01-12",
+        "dueDate": "2025-01-15",
+        "aging": 28,
+        "lastPayDate": null,
+        "invoiceAmount": "$156,200",
+        "balance": "$156,200",
+        "status": "Open"
+      },
+      {
+        "arCtrlNumber": "AR-2025-007",
+        "customer": "Spirit Airlines",
+        "companyCode": "SAVE",
+        "description": "Navigation System Repair",
+        "consignmentCode": "SAVE-007",
+        "entryDate": "2024-11-30",
+        "finalDate": "2024-12-27",
+        "dueDate": "2024-12-30",
+        "aging": 44,
+        "lastPayDate": null,
+        "invoiceAmount": "$67,500",
+        "balance": "$67,500",
+        "status": "Overdue"
+      },
+      {
+        "arCtrlNumber": "AR-2025-008",
+        "customer": "Frontier Airlines",
+        "companyCode": "FRNT",
+        "description": "Turbine Blade Replacement",
+        "consignmentCode": "FRNT-008",
+        "entryDate": "2024-12-08",
+        "finalDate": "2025-01-05",
+        "dueDate": "2025-01-08",
+        "aging": 35,
+        "lastPayDate": "2025-01-03",
+        "invoiceAmount": "$189,300",
+        "balance": "$94,650",
+        "status": "Partial"
+      },
+      {
+        "arCtrlNumber": "AR-2025-009",
+        "customer": "Hawaiian Airlines",
+        "companyCode": "HAL",
+        "description": "Communication System Upgrade",
+        "consignmentCode": "HAL-009",
+        "entryDate": "2024-12-12",
+        "finalDate": "2025-01-09",
+        "dueDate": "2025-01-12",
+        "aging": 31,
+        "lastPayDate": null,
+        "invoiceAmount": "$142,800",
+        "balance": "$142,800",
+        "status": "Open"
+      },
+      {
+        "arCtrlNumber": "AR-2025-010",
+        "customer": "Allegiant Air",
+        "companyCode": "ALGT",
+        "description": "Fuel System Component Repair",
+        "consignmentCode": "ALGT-010",
+        "entryDate": "2024-11-25",
+        "finalDate": "2024-12-22",
+        "dueDate": "2024-12-25",
+        "aging": 49,
+        "lastPayDate": null,
+        "invoiceAmount": "$78,900",
+        "balance": "$78,900",
+        "status": "Overdue"
+      }
+    ]
+  },
+  "cashFlow": {
+    "kpis": {
+      "totalIn": "$8.4M",
+      "totalOut": "$6.2M",
+      "netCash": "$2.2M",
+      "monthlyAvg": "$314K",
+      "netCashTrend": "positive"
+    },
+    "data": [
+      {
+        "month": "Jul",
+        "inflows": 1200000,
+        "outflows": 890000,
+        "netCashFlow": 310000,
+        "formattedInflows": "$1.2M",
+        "formattedOutflows": "$890K",
+        "formattedNetCashFlow": "$310K"
+      },
+      {
+        "month": "Aug",
+        "inflows": 1350000,
+        "outflows": 950000,
+        "netCashFlow": 400000,
+        "formattedInflows": "$1.35M",
+        "formattedOutflows": "$950K",
+        "formattedNetCashFlow": "$400K"
+      },
+      {
+        "month": "Sep",
+        "inflows": 1100000,
+        "outflows": 820000,
+        "netCashFlow": 280000,
+        "formattedInflows": "$1.1M",
+        "formattedOutflows": "$820K",
+        "formattedNetCashFlow": "$280K"
+      },
+      {
+        "month": "Oct",
+        "inflows": 1450000,
+        "outflows": 1100000,
+        "netCashFlow": 350000,
+        "formattedInflows": "$1.45M",
+        "formattedOutflows": "$1.1M",
+        "formattedNetCashFlow": "$350K"
+      },
+      {
+        "month": "Nov",
+        "inflows": 1250000,
+        "outflows": 890000,
+        "netCashFlow": 360000,
+        "formattedInflows": "$1.25M",
+        "formattedOutflows": "$890K",
+        "formattedNetCashFlow": "$360K"
+      },
+      {
+        "month": "Dec",
+        "inflows": 1080000,
+        "outflows": 760000,
+        "netCashFlow": 320000,
+        "formattedInflows": "$1.08M",
+        "formattedOutflows": "$760K",
+        "formattedNetCashFlow": "$320K"
+      },
+      {
+        "month": "Jan",
+        "inflows": 1370000,
+        "outflows": 1050000,
+        "netCashFlow": 320000,
+        "formattedInflows": "$1.37M",
+        "formattedOutflows": "$1.05M",
+        "formattedNetCashFlow": "$320K"
+      }
+    ]
+  },
+  "latePayments": {
+    "overdueReceivables": [
+      {
+        "arCtrlNumber": "AR-2025-003",
+        "customer": "American Airlines",
+        "amount": "$310,000",
+        "aging": 46,
+        "dueDate": "2024-12-28",
+        "company": "AeroTech Solutions"
+      },
+      {
+        "arCtrlNumber": "AR-2025-005",
+        "customer": "JetBlue Airways",
+        "amount": "$98,750",
+        "aging": 41,
+        "dueDate": "2025-01-02",
+        "company": "SkyLine Aviation"
+      },
+      {
+        "arCtrlNumber": "AR-2025-007",
+        "customer": "Spirit Airlines",
+        "amount": "$67,500",
+        "aging": 44,
+        "dueDate": "2024-12-30",
+        "company": "FlightTech Corp"
+      },
+      {
+        "arCtrlNumber": "AR-2025-011",
+        "customer": "Allegiant Air",
+        "amount": "$78,900",
+        "aging": 49,
+        "dueDate": "2024-12-25",
+        "company": "SkyLine Aviation"
+      }
+    ],
+    "overduePayables": [
+      {
+        "apCtrlNumber": "AP-2025-003",
+        "vendor": "Safran Group",
+        "amount": "$95,250",
+        "aging": 54,
+        "dueDate": "2024-12-20",
+        "company": "AeroTech Solutions"
+      },
+      {
+        "apCtrlNumber": "AP-2025-007",
+        "vendor": "Airbus Industries",
+        "amount": "$156,750",
+        "aging": 49,
+        "dueDate": "2024-12-25",
+        "company": "SkyLine Aviation"
+      },
+      {
+        "apCtrlNumber": "AP-2025-009",
+        "vendor": "Spirit AeroSystems",
+        "amount": "$128,500",
+        "aging": 46,
+        "dueDate": "2024-12-28",
+        "company": "FlightTech Corp"
+      }
+    ],
+    "companyOverdueData": [
+      {
+        "name": "AeroTech Solutions",
+        "value": 405250,
+        "color": "#9333ea"
+      },
+      {
+        "name": "SkyLine Aviation",
+        "value": 334150,
+        "color": "#7c3aed"
+      },
+      {
+        "name": "FlightTech Corp",
+        "value": 196000,
+        "color": "#a855f7"
+      }
+    ],
+    "agingBuckets": [
+      {
+        "bucket": "0-30 days",
+        "receivables": 245000,
+        "payables": 117200
+      },
+      {
+        "bucket": "31-60 days",
+        "receivables": 456900,
+        "payables": 285750
+      },
+      {
+        "bucket": "60+ days",
+        "receivables": 555150,
+        "payables": 380500
+      }
+    ]
+  },
+  "monthlySummary": {
+    "kpis": {
+      "totalRevenue": "$8.4M",
+      "totalExpenses": "$6.2M",
+      "totalNetProfit": "$2.2M",
+      "totalOpenAR": "$3.8M",
+      "totalOpenAP": "$2.3M",
+      "netProfitTrend": "positive"
+    },
+    "monthlyData": [
+      {
+        "month": "Jul",
+        "revenue": 1200000,
+        "expenses": 890000,
+        "netProfit": 310000,
+        "openAR": 580000,
+        "openAP": 420000,
+        "formattedRevenue": "$1.2M",
+        "formattedExpenses": "$890K",
+        "formattedNetProfit": "$310K",
+        "formattedOpenAR": "$580K",
+        "formattedOpenAP": "$420K"
+      },
+      {
+        "month": "Aug",
+        "revenue": 1350000,
+        "expenses": 950000,
+        "netProfit": 400000,
+        "openAR": 650000,
+        "openAP": 380000,
+        "formattedRevenue": "$1.35M",
+        "formattedExpenses": "$950K",
+        "formattedNetProfit": "$400K",
+        "formattedOpenAR": "$650K",
+        "formattedOpenAP": "$380K"
+      },
+      {
+        "month": "Sep",
+        "revenue": 1100000,
+        "expenses": 820000,
+        "netProfit": 280000,
+        "openAR": 540000,
+        "openAP": 290000,
+        "formattedRevenue": "$1.1M",
+        "formattedExpenses": "$820K",
+        "formattedNetProfit": "$280K",
+        "formattedOpenAR": "$540K",
+        "formattedOpenAP": "$290K"
+      },
+      {
+        "month": "Oct",
+        "revenue": 1450000,
+        "expenses": 1100000,
+        "netProfit": 350000,
+        "openAR": 720000,
+        "openAP": 450000,
+        "formattedRevenue": "$1.45M",
+        "formattedExpenses": "$1.1M",
+        "formattedNetProfit": "$350K",
+        "formattedOpenAR": "$720K",
+        "formattedOpenAP": "$450K"
+      },
+      {
+        "month": "Nov",
+        "revenue": 1250000,
+        "expenses": 890000,
+        "netProfit": 360000,
+        "openAR": 680000,
+        "openAP": 320000,
+        "formattedRevenue": "$1.25M",
+        "formattedExpenses": "$890K",
+        "formattedNetProfit": "$360K",
+        "formattedOpenAR": "$680K",
+        "formattedOpenAP": "$320K"
+      },
+      {
+        "month": "Dec",
+        "revenue": 1080000,
+        "expenses": 760000,
+        "netProfit": 320000,
+        "openAR": 590000,
+        "openAP": 280000,
+        "formattedRevenue": "$1.08M",
+        "formattedExpenses": "$760K",
+        "formattedNetProfit": "$320K",
+        "formattedOpenAR": "$590K",
+        "formattedOpenAP": "$280K"
+      },
+      {
+        "month": "Jan",
+        "revenue": 1370000,
+        "expenses": 1050000,
+        "netProfit": 320000,
+        "openAR": 780000,
+        "openAP": 520000,
+        "formattedRevenue": "$1.37M",
+        "formattedExpenses": "$1.05M",
+        "formattedNetProfit": "$320K",
+        "formattedOpenAR": "$780K",
+        "formattedOpenAP": "$520K"
+      }
+    ],
+    "topClients": [
+      {
+        "name": "Delta Air Lines",
+        "revenue": "$1.2M",
+        "percentage": 18.5
+      },
+      {
+        "name": "United Airlines",
+        "revenue": "$1.1M",
+        "percentage": 16.8
+      },
+      {
+        "name": "American Airlines",
+        "revenue": "$980K",
+        "percentage": 15.2
+      },
+      {
+        "name": "Southwest Airlines",
+        "revenue": "$840K",
+        "percentage": 13.1
+      },
+      {
+        "name": "JetBlue Airways",
+        "revenue": "$720K",
+        "percentage": 11.2
+      }
+    ],
+    "topVendors": [
+      {
+        "name": "Pratt & Whitney",
+        "cost": "$850K",
+        "percentage": 22.4
+      },
+      {
+        "name": "Honeywell Aerospace",
+        "cost": "$720K",
+        "percentage": 19.0
+      },
+      {
+        "name": "Rolls-Royce",
+        "cost": "$650K",
+        "percentage": 17.1
+      },
+      {
+        "name": "Safran Group",
+        "cost": "$580K",
+        "percentage": 15.3
+      },
+      {
+        "name": "Collins Aerospace",
+        "cost": "$480K",
+        "percentage": 12.6
+      }
+    ]
+  },
+  "lastUpdated": "2025-01-13T10:00:00Z"
+}

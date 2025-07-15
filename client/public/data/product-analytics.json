@@ -1,0 +1,287 @@
+{
+  "leaderboard": [
+    {
+      "partNumber": "ENG-7845",
+      "description": "Pratt & Whitney PW4000 Turbine Blade Assembly",
+      "revenue": "$485,000",
+      "quantitySold": 12,
+      "orders": 8,
+      "aov": "$60,625",
+      "conversionRate": "66.7%",
+      "lastSoldDate": "2025-01-10",
+      "category": "Engine Parts"
+    },
+    {
+      "partNumber": "AVI-2134",
+      "description": "Boeing 737 Landing Gear Hydraulic Actuator",
+      "revenue": "$342,500",
+      "quantitySold": 25,
+      "orders": 15,
+      "aov": "$22,833",
+      "conversionRate": "62.5%",
+      "lastSoldDate": "2025-01-12",
+      "category": "Landing Gear"
+    },
+    {
+      "partNumber": "NAV-5678",
+      "description": "Garmin G1000 Flight Display Unit",
+      "revenue": "$298,750",
+      "quantitySold": 8,
+      "orders": 6,
+      "aov": "$49,792",
+      "conversionRate": "75.0%",
+      "lastSoldDate": "2025-01-08",
+      "category": "Avionics"
+    },
+    {
+      "partNumber": "FLT-9012",
+      "description": "Airbus A320 Wing Flap Control Module",
+      "revenue": "$234,200",
+      "quantitySold": 18,
+      "orders": 12,
+      "aov": "$19,517",
+      "conversionRate": "66.7%",
+      "lastSoldDate": "2025-01-11",
+      "category": "Flight Controls"
+    },
+    {
+      "partNumber": "HYD-3456",
+      "description": "Cessna Citation Hydraulic Pump Assembly",
+      "revenue": "$198,900",
+      "quantitySold": 35,
+      "orders": 22,
+      "aov": "$9,041",
+      "conversionRate": "62.9%",
+      "lastSoldDate": "2025-01-09",
+      "category": "Hydraulics"
+    },
+    {
+      "partNumber": "ENG-1123",
+      "description": "CFM56 Engine Fan Blade Set (24 pieces)",
+      "revenue": "$187,300",
+      "quantitySold": 6,
+      "orders": 4,
+      "aov": "$46,825",
+      "conversionRate": "66.7%",
+      "lastSoldDate": "2025-01-07",
+      "category": "Engine Parts"
+    },
+    {
+      "partNumber": "ELE-7890",
+      "description": "Aircraft Main Power Distribution Unit",
+      "revenue": "$156,800",
+      "quantitySold": 42,
+      "orders": 28,
+      "aov": "$5,600",
+      "conversionRate": "66.7%",
+      "lastSoldDate": "2025-01-13",
+      "category": "Electrical"
+    },
+    {
+      "partNumber": "INT-4567",
+      "description": "Business Jet Interior LED Lighting Kit",
+      "revenue": "$145,600",
+      "quantitySold": 158,
+      "orders": 45,
+      "aov": "$3,236",
+      "conversionRate": "28.5%",
+      "lastSoldDate": "2025-01-12",
+      "category": "Interior"
+    },
+    {
+      "partNumber": "COM-8901",
+      "description": "Honeywell Radio Communication System",
+      "revenue": "$134,900",
+      "quantitySold": 14,
+      "orders": 10,
+      "aov": "$13,490",
+      "conversionRate": "71.4%",
+      "lastSoldDate": "2025-01-06",
+      "category": "Avionics"
+    },
+    {
+      "partNumber": "FUE-2345",
+      "description": "Fuel System Pressure Regulator Valve",
+      "revenue": "$123,450",
+      "quantitySold": 67,
+      "orders": 38,
+      "aov": "$3,249",
+      "conversionRate": "56.7%",
+      "lastSoldDate": "2025-01-11",
+      "category": "Fuel Systems"
+    },
+    {
+      "partNumber": "STR-6789",
+      "description": "Aircraft Structural Reinforcement Plate",
+      "revenue": "$112,300",
+      "quantitySold": 89,
+      "orders": 52,
+      "aov": "$2,160",
+      "conversionRate": "58.4%",
+      "lastSoldDate": "2025-01-10",
+      "category": "Structural"
+    },
+    {
+      "partNumber": "OXY-3456",
+      "description": "Emergency Oxygen System Cylinder",
+      "revenue": "$98,700",
+      "quantitySold": 24,
+      "orders": 16,
+      "aov": "$6,169",
+      "conversionRate": "66.7%",
+      "lastSoldDate": "2025-01-05",
+      "category": "Life Support"
+    }
+  ],
+  "topByRevenue": [
+    {
+      "partNumber": "ENG-7845",
+      "description": "Pratt & Whitney PW4000 Turbine Blade Assembly",
+      "revenue": "$485,000",
+      "orders": 8,
+      "category": "Engine Parts"
+    },
+    {
+      "partNumber": "AVI-2134",
+      "description": "Boeing 737 Landing Gear Hydraulic Actuator",
+      "revenue": "$342,500",
+      "orders": 15,
+      "category": "Landing Gear"
+    },
+    {
+      "partNumber": "NAV-5678",
+      "description": "Garmin G1000 Flight Display Unit",
+      "revenue": "$298,750",
+      "orders": 6,
+      "category": "Avionics"
+    },
+    {
+      "partNumber": "FLT-9012",
+      "description": "Airbus A320 Wing Flap Control Module",
+      "revenue": "$234,200",
+      "orders": 12,
+      "category": "Flight Controls"
+    },
+    {
+      "partNumber": "HYD-3456",
+      "description": "Cessna Citation Hydraulic Pump Assembly",
+      "revenue": "$198,900",
+      "orders": 22,
+      "category": "Hydraulics"
+    }
+  ],
+  "topByQuantity": [
+    {
+      "partNumber": "INT-4567",
+      "description": "Business Jet Interior LED Lighting Kit",
+      "quantity": 158,
+      "revenue": "$145,600",
+      "category": "Interior"
+    },
+    {
+      "partNumber": "STR-6789",
+      "description": "Aircraft Structural Reinforcement Plate",
+      "quantity": 89,
+      "revenue": "$112,300",
+      "category": "Structural"
+    },
+    {
+      "partNumber": "FUE-2345",
+      "description": "Fuel System Pressure Regulator Valve",
+      "quantity": 67,
+      "revenue": "$123,450",
+      "category": "Fuel Systems"
+    },
+    {
+      "partNumber": "ELE-7890",
+      "description": "Aircraft Main Power Distribution Unit",
+      "quantity": 42,
+      "revenue": "$156,800",
+      "category": "Electrical"
+    },
+    {
+      "partNumber": "HYD-3456",
+      "description": "Cessna Citation Hydraulic Pump Assembly",
+      "quantity": 35,
+      "revenue": "$198,900",
+      "category": "Hydraulics"
+    }
+  ],
+  "productTrends": {
+    "ENG-7845": [
+      { "month": "Jul", "revenue": 65000, "quantity": 2, "formattedRevenue": "$65,000" },
+      { "month": "Aug", "revenue": 58000, "quantity": 1, "formattedRevenue": "$58,000" },
+      { "month": "Sep", "revenue": 72000, "quantity": 2, "formattedRevenue": "$72,000" },
+      { "month": "Oct", "revenue": 89000, "quantity": 2, "formattedRevenue": "$89,000" },
+      { "month": "Nov", "revenue": 67000, "quantity": 1, "formattedRevenue": "$67,000" },
+      { "month": "Dec", "revenue": 78000, "quantity": 2, "formattedRevenue": "$78,000" },
+      { "month": "Jan", "revenue": 95000, "quantity": 2, "formattedRevenue": "$95,000" }
+    ],
+    "AVI-2134": [
+      { "month": "Jul", "revenue": 45000, "quantity": 3, "formattedRevenue": "$45,000" },
+      { "month": "Aug", "revenue": 52000, "quantity": 4, "formattedRevenue": "$52,000" },
+      { "month": "Sep", "revenue": 38000, "quantity": 3, "formattedRevenue": "$38,000" },
+      { "month": "Oct", "revenue": 61000, "quantity": 4, "formattedRevenue": "$61,000" },
+      { "month": "Nov", "revenue": 48000, "quantity": 3, "formattedRevenue": "$48,000" },
+      { "month": "Dec", "revenue": 55000, "quantity": 4, "formattedRevenue": "$55,000" },
+      { "month": "Jan", "revenue": 43000, "quantity": 4, "formattedRevenue": "$43,000" }
+    ],
+    "NAV-5678": [
+      { "month": "Jul", "revenue": 38000, "quantity": 1, "formattedRevenue": "$38,000" },
+      { "month": "Aug", "revenue": 45000, "quantity": 1, "formattedRevenue": "$45,000" },
+      { "month": "Sep", "revenue": 52000, "quantity": 1, "formattedRevenue": "$52,000" },
+      { "month": "Oct", "revenue": 41000, "quantity": 1, "formattedRevenue": "$41,000" },
+      { "month": "Nov", "revenue": 48000, "quantity": 1, "formattedRevenue": "$48,000" },
+      { "month": "Dec", "revenue": 39000, "quantity": 1, "formattedRevenue": "$39,000" },
+      { "month": "Jan", "revenue": 56000, "quantity": 2, "formattedRevenue": "$56,000" }
+    ],
+    "INT-4567": [
+      { "month": "Jul", "revenue": 18000, "quantity": 22, "formattedRevenue": "$18,000" },
+      { "month": "Aug", "revenue": 21000, "quantity": 28, "formattedRevenue": "$21,000" },
+      { "month": "Sep", "revenue": 19500, "quantity": 24, "formattedRevenue": "$19,500" },
+      { "month": "Oct", "revenue": 23000, "quantity": 31, "formattedRevenue": "$23,000" },
+      { "month": "Nov", "revenue": 20000, "quantity": 26, "formattedRevenue": "$20,000" },
+      { "month": "Dec", "revenue": 22500, "quantity": 29, "formattedRevenue": "$22,500" },
+      { "month": "Jan", "revenue": 21600, "quantity": 27, "formattedRevenue": "$21,600" }
+    ]
+  },
+  "products": [
+    { "id": "ENG-7845", "name": "ENG-7845 - Turbine Blade Assembly", "category": "Engine Parts" },
+    { "id": "AVI-2134", "name": "AVI-2134 - Landing Gear Actuator", "category": "Landing Gear" },
+    { "id": "NAV-5678", "name": "NAV-5678 - Flight Display Unit", "category": "Avionics" },
+    { "id": "INT-4567", "name": "INT-4567 - LED Lighting Kit", "category": "Interior" }
+  ],
+  "channelData": [
+    {
+      "name": "Direct Sales",
+      "value": 1250000,
+      "formattedValue": "$1.25M",
+      "color": "#3b82f6"
+    },
+    {
+      "name": "Distributor Network",
+      "value": 890000,
+      "formattedValue": "$890K",
+      "color": "#10b981"
+    },
+    {
+      "name": "Online Platform",
+      "value": 650000,
+      "formattedValue": "$650K",
+      "color": "#f59e0b"
+    },
+    {
+      "name": "OEM Partnerships",
+      "value": 480000,
+      "formattedValue": "$480K",
+      "color": "#ef4444"
+    },
+    {
+      "name": "Aftermarket",
+      "value": 330000,
+      "formattedValue": "$330K",
+      "color": "#8b5cf6"
+    }
+  ],
+  "lastUpdated": "Today, 2:15 PM"
+}

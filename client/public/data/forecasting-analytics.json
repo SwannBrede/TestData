@@ -1,0 +1,406 @@
+{
+  "forecastVsActual": {
+    "2024": [
+      {
+        "month": "Jan",
+        "actualRevenue": 2320000,
+        "forecastRevenue": 2280000,
+        "actualOrders": 42,
+        "forecastOrders": 41,
+        "formattedActualRevenue": "$2.32M",
+        "formattedForecastRevenue": "$2.28M"
+      },
+      {
+        "month": "Feb",
+        "actualRevenue": 2180000,
+        "forecastRevenue": 2250000,
+        "actualOrders": 38,
+        "forecastOrders": 40,
+        "formattedActualRevenue": "$2.18M",
+        "formattedForecastRevenue": "$2.25M"
+      },
+      {
+        "month": "Mar",
+        "actualRevenue": 2580000,
+        "forecastRevenue": 2450000,
+        "actualOrders": 47,
+        "forecastOrders": 44,
+        "formattedActualRevenue": "$2.58M",
+        "formattedForecastRevenue": "$2.45M"
+      },
+      {
+        "month": "Apr",
+        "actualRevenue": 2720000,
+        "forecastRevenue": 2680000,
+        "actualOrders": 51,
+        "forecastOrders": 49,
+        "formattedActualRevenue": "$2.72M",
+        "formattedForecastRevenue": "$2.68M"
+      },
+      {
+        "month": "May",
+        "actualRevenue": 2890000,
+        "forecastRevenue": 2750000,
+        "actualOrders": 56,
+        "forecastOrders": 52,
+        "formattedActualRevenue": "$2.89M",
+        "formattedForecastRevenue": "$2.75M"
+      },
+      {
+        "month": "Jun",
+        "actualRevenue": 2650000,
+        "forecastRevenue": 2800000,
+        "actualOrders": 48,
+        "forecastOrders": 53,
+        "formattedActualRevenue": "$2.65M",
+        "formattedForecastRevenue": "$2.80M"
+      },
+      {
+        "month": "Jul",
+        "actualRevenue": 2450000,
+        "forecastRevenue": 2380000,
+        "actualOrders": 45,
+        "forecastOrders": 42,
+        "formattedActualRevenue": "$2.45M",
+        "formattedForecastRevenue": "$2.38M"
+      },
+      {
+        "month": "Aug",
+        "actualRevenue": 2680000,
+        "forecastRevenue": 2550000,
+        "actualOrders": 52,
+        "forecastOrders": 48,
+        "formattedActualRevenue": "$2.68M",
+        "formattedForecastRevenue": "$2.55M"
+      },
+      {
+        "month": "Sep",
+        "actualRevenue": 2320000,
+        "forecastRevenue": 2450000,
+        "actualOrders": 38,
+        "forecastOrders": 45,
+        "formattedActualRevenue": "$2.32M",
+        "formattedForecastRevenue": "$2.45M"
+      },
+      {
+        "month": "Oct",
+        "actualRevenue": 2890000,
+        "forecastRevenue": 2750000,
+        "actualOrders": 58,
+        "forecastOrders": 52,
+        "formattedActualRevenue": "$2.89M",
+        "formattedForecastRevenue": "$2.75M"
+      },
+      {
+        "month": "Nov",
+        "actualRevenue": 2650000,
+        "forecastRevenue": 2700000,
+        "actualOrders": 48,
+        "forecastOrders": 50,
+        "formattedActualRevenue": "$2.65M",
+        "formattedForecastRevenue": "$2.70M"
+      },
+      {
+        "month": "Dec",
+        "actualRevenue": 3120000,
+        "forecastRevenue": 2950000,
+        "actualOrders": 62,
+        "forecastOrders": 58,
+        "formattedActualRevenue": "$3.12M",
+        "formattedForecastRevenue": "$2.95M"
+      }
+    ],
+    "2025": [
+      {
+        "month": "Jan",
+        "actualRevenue": 2850000,
+        "forecastRevenue": 2850000,
+        "actualOrders": 53,
+        "forecastOrders": 53,
+        "formattedActualRevenue": "$2.85M",
+        "formattedForecastRevenue": "$2.85M"
+      },
+      {
+        "month": "Feb",
+        "actualRevenue": 0,
+        "forecastRevenue": 2920000,
+        "actualOrders": 0,
+        "forecastOrders": 55,
+        "formattedActualRevenue": "$0.00M",
+        "formattedForecastRevenue": "$2.92M"
+      },
+      {
+        "month": "Mar",
+        "actualRevenue": 0,
+        "forecastRevenue": 3100000,
+        "actualOrders": 0,
+        "forecastOrders": 58,
+        "formattedActualRevenue": "$0.00M",
+        "formattedForecastRevenue": "$3.10M"
+      },
+      {
+        "month": "Apr",
+        "actualRevenue": 0,
+        "forecastRevenue": 2980000,
+        "actualOrders": 0,
+        "forecastOrders": 56,
+        "formattedActualRevenue": "$0.00M",
+        "formattedForecastRevenue": "$2.98M"
+      },
+      {
+        "month": "May",
+        "actualRevenue": 0,
+        "forecastRevenue": 3250000,
+        "actualOrders": 0,
+        "forecastOrders": 61,
+        "formattedActualRevenue": "$0.00M",
+        "formattedForecastRevenue": "$3.25M"
+      },
+      {
+        "month": "Jun",
+        "actualRevenue": 0,
+        "forecastRevenue": 3180000,
+        "actualOrders": 0,
+        "forecastOrders": 59,
+        "formattedActualRevenue": "$0.00M",
+        "formattedForecastRevenue": "$3.18M"
+      },
+      {
+        "month": "Jul",
+        "actualRevenue": 0,
+        "forecastRevenue": 3350000,
+        "actualOrders": 0,
+        "forecastOrders": 63,
+        "formattedActualRevenue": "$0.00M",
+        "formattedForecastRevenue": "$3.35M"
+      },
+      {
+        "month": "Aug",
+        "actualRevenue": 0,
+        "forecastRevenue": 3420000,
+        "actualOrders": 0,
+        "forecastOrders": 64,
+        "formattedActualRevenue": "$0.00M",
+        "formattedForecastRevenue": "$3.42M"
+      },
+      {
+        "month": "Sep",
+        "actualRevenue": 0,
+        "forecastRevenue": 3280000,
+        "actualOrders": 0,
+        "forecastOrders": 62,
+        "formattedActualRevenue": "$0.00M",
+        "formattedForecastRevenue": "$3.28M"
+      },
+      {
+        "month": "Oct",
+        "actualRevenue": 0,
+        "forecastRevenue": 3150000,
+        "actualOrders": 0,
+        "forecastOrders": 59,
+        "formattedActualRevenue": "$0.00M",
+        "formattedForecastRevenue": "$3.15M"
+      },
+      {
+        "month": "Nov",
+        "actualRevenue": 0,
+        "forecastRevenue": 3480000,
+        "actualOrders": 0,
+        "forecastOrders": 65,
+        "formattedActualRevenue": "$0.00M",
+        "formattedForecastRevenue": "$3.48M"
+      },
+      {
+        "month": "Dec",
+        "actualRevenue": 0,
+        "forecastRevenue": 3650000,
+        "actualOrders": 0,
+        "forecastOrders": 68,
+        "formattedActualRevenue": "$0.00M",
+        "formattedForecastRevenue": "$3.65M"
+      }
+    ]
+  },
+  "currentPeriod": {
+    "periodName": "January 2025",
+    "forecastedRevenue": {
+      "value": "$2.85M",
+      "vsTarget": "+8.3%",
+      "vsLastMonth": "-8.7%",
+      "targetTrend": "positive",
+      "monthTrend": "negative"
+    },
+    "forecastedOrders": {
+      "value": "53",
+      "vsTarget": "+6.0%",
+      "vsLastMonth": "-14.5%",
+      "targetTrend": "positive",
+      "monthTrend": "negative"
+    }
+  },
+  "customerForecasts": [
+    {
+      "customer": "SkyLine Airlines",
+      "forecastedRevenue": "$485,000",
+      "runRate": "$40,417",
+      "varianceVsTarget": "+12.4%",
+      "variancePercent": 12.4,
+      "region": "North America"
+    },
+    {
+      "customer": "AeroTech Solutions",
+      "forecastedRevenue": "$420,000",
+      "runRate": "$35,000",
+      "varianceVsTarget": "+18.2%",
+      "variancePercent": 18.2,
+      "region": "North America"
+    },
+    {
+      "customer": "Global Air Services",
+      "forecastedRevenue": "$365,000",
+      "runRate": "$30,417",
+      "varianceVsTarget": "+8.9%",
+      "variancePercent": 8.9,
+      "region": "Europe"
+    },
+    {
+      "customer": "Pacific Airways",
+      "forecastedRevenue": "$280,000",
+      "runRate": "$23,333",
+      "varianceVsTarget": "-5.2%",
+      "variancePercent": -5.2,
+      "region": "Asia Pacific"
+    },
+    {
+      "customer": "Continental Flight Co.",
+      "forecastedRevenue": "$245,000",
+      "runRate": "$20,417",
+      "varianceVsTarget": "+15.7%",
+      "variancePercent": 15.7,
+      "region": "North America"
+    },
+    {
+      "customer": "European Airways",
+      "forecastedRevenue": "$225,000",
+      "runRate": "$18,750",
+      "varianceVsTarget": "+3.4%",
+      "variancePercent": 3.4,
+      "region": "Europe"
+    },
+    {
+      "customer": "Cargo Express Ltd",
+      "forecastedRevenue": "$190,000",
+      "runRate": "$15,833",
+      "varianceVsTarget": "+22.1%",
+      "variancePercent": 22.1,
+      "region": "Europe"
+    },
+    {
+      "customer": "Asian Sky Network",
+      "forecastedRevenue": "$165,000",
+      "runRate": "$13,750",
+      "varianceVsTarget": "-12.8%",
+      "variancePercent": -12.8,
+      "region": "Asia Pacific"
+    },
+    {
+      "customer": "Trans-Atlantic Air",
+      "forecastedRevenue": "$155,000",
+      "runRate": "$12,917",
+      "varianceVsTarget": "+9.3%",
+      "variancePercent": 9.3,
+      "region": "North America"
+    },
+    {
+      "customer": "Regional Connect",
+      "forecastedRevenue": "$145,000",
+      "runRate": "$12,083",
+      "varianceVsTarget": "+17.5%",
+      "variancePercent": 17.5,
+      "region": "North America"
+    }
+  ],
+  "productForecasts": [
+    {
+      "partNumber": "ENG-7845",
+      "productName": "Pratt & Whitney PW4000 Turbine Blade Assembly",
+      "forecastedRevenue": "$520,000",
+      "forecastedQuantity": "$43,333",
+      "confidenceLevel": "+15.2%",
+      "category": "Engine Parts"
+    },
+    {
+      "partNumber": "AVI-2134",
+      "productName": "Boeing 737 Landing Gear Hydraulic Actuator",
+      "forecastedRevenue": "$385,000",
+      "forecastedQuantity": "$32,083",
+      "confidenceLevel": "+8.7%",
+      "category": "Landing Gear"
+    },
+    {
+      "partNumber": "NAV-5678",
+      "productName": "Garmin G1000 Flight Display Unit",
+      "forecastedRevenue": "$335,000",
+      "forecastedQuantity": "$27,917",
+      "confidenceLevel": "+12.4%",
+      "category": "Avionics"
+    },
+    {
+      "partNumber": "FLT-9012",
+      "productName": "Airbus A320 Wing Flap Control Module",
+      "forecastedRevenue": "$265,000",
+      "forecastedQuantity": "$22,083",
+      "confidenceLevel": "+6.3%",
+      "category": "Flight Controls"
+    },
+    {
+      "partNumber": "HYD-3456",
+      "productName": "Cessna Citation Hydraulic Pump Assembly",
+      "forecastedRevenue": "$225,000",
+      "forecastedQuantity": "$18,750",
+      "confidenceLevel": "-3.2%",
+      "category": "Hydraulics"
+    },
+    {
+      "partNumber": "ENG-1123",
+      "productName": "CFM56 Engine Fan Blade Set (24 pieces)",
+      "forecastedRevenue": "$210,000",
+      "forecastedQuantity": "$17,500",
+      "confidenceLevel": "+9.8%",
+      "category": "Engine Parts"
+    },
+    {
+      "partNumber": "ELE-7890",
+      "productName": "Aircraft Main Power Distribution Unit",
+      "forecastedRevenue": "$185,000",
+      "forecastedQuantity": "$15,417",
+      "confidenceLevel": "+4.1%",
+      "category": "Electrical"
+    },
+    {
+      "partNumber": "INT-4567",
+      "productName": "Business Jet Interior LED Lighting Kit",
+      "forecastedRevenue": "$165,000",
+      "forecastedQuantity": "$13,750",
+      "confidenceLevel": "-8.5%",
+      "category": "Interior"
+    },
+    {
+      "partNumber": "COM-8901",
+      "productName": "Honeywell Radio Communication System",
+      "forecastedRevenue": "$155,000",
+      "forecastedQuantity": "$12,917",
+      "confidenceLevel": "+2.7%",
+      "category": "Avionics"
+    },
+    {
+      "partNumber": "FUE-2345",
+      "productName": "Fuel System Pressure Regulator Valve",
+      "forecastedRevenue": "$145,000",
+      "forecastedQuantity": "$12,083",
+      "confidenceLevel": "+7.3%",
+      "category": "Fuel Systems"
+    }
+  ],
+  "lastUpdated": "Today, 2:20 PM"
+}
